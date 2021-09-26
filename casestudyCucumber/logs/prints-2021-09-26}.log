@@ -1,0 +1,8 @@
+11:21:56.617 [main] INFO  resources.base - clicked on view product
+11:22:01.986 [main] INFO  resources.base - got dimensions
+11:22:18.710 [main] INFO  resources.base - clicked on help button
+11:22:19.605 [main] INFO  resources.base - got contact email
+11:22:37.853 [main] INFO  resources.base - clicked in store
+11:22:40.288 [main] INFO  resources.base - got Jpnagar Store address
+11:22:58.748 [main] INFO  resources.base - clicked on allfurniture
+11:23:00.980 [main] INFO  resources.base - clicked on study room tables

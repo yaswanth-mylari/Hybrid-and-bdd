@@ -1,0 +1,8 @@
+14:55:34.512 [main] INFO  resources.base - set price limit succesfully
+14:55:55.054 [main] INFO  resources.base - clicked on sales
+14:55:55.444 [main] INFO  resources.base - clicked on view product
+14:56:00.794 [main] INFO  resources.base - got dimensions
+14:56:20.625 [main] INFO  resources.base - clicked on help button
+14:56:21.834 [main] INFO  resources.base - got contact email
+14:56:43.520 [main] INFO  resources.base - clicked in store
+14:56:47.166 [main] INFO  resources.base - got Jpnagar Store address
